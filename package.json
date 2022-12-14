@@ -18,6 +18,7 @@
     "@nrwl/node": "15.3.3",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "15.3.3",
+    "@nx-extend/strapi": "^3.1.2",
     "@types/jest": "28.1.1",
     "@types/node": "18.7.1",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
